@@ -1,4 +1,4 @@
-![git hub readme](https://github.com/Anujkumar960/Anujkumar960/assets/154539617/39dbd165-ec6d-491d-9d85-9eb4c8e5ae72)
+![GitHub Readme Banner](https://github.com/Anujkumar960/Anujkumar960/assets/154539617/39dbd165-ec6d-491d-9d85-9eb4c8e5ae72)
 
 <h1 align=center>
   <a href="https://git.io/typing-svg">
@@ -6,8 +6,12 @@
   </a>
 </h1> 
 
+<h3 align="justify">Full Stack Web Developer | MERN Stack </h3>
+
 With 1200+ hours of experience, I specialize in crafting dynamic, user-friendly applications using the MERN stack. My passion for innovation drives me to learn and explore new technologies continually. Let's connect on LinkedIn to delve deeper into my professional journey and skills. Thanks for visiting—I look forward to connecting with you!
 
+<br/>
+ 
 🚀 Crafting both Frontend & Backend magic!
 
 🌟 Currently mastering the MERN stack - it's a journey!
@@ -18,9 +22,11 @@ With 1200+ hours of experience, I specialize in crafting dynamic, user-friendly 
 
 ✉️ Reach me at anujkshatriya82@gmail.com - let's chat!
 
-📄 Check out [my Resume](https://drive.google.com/file/d/1Ox_X0asQEwNQ9TX1wuSxrPZIVCuVlKpl/view?usp=drive_link) for the full scoop.
+📄 Check out [my Resume](https://drive.google.com/file/d/1oEVVj8aX9iX018583p1QZ1y-C5v23Emo/view?usp=sharing) for the full scoop.
 
-💼 Dive into my [Portfolio](https://drive.google.com/file/d/1Ox_X0asQEwNQ9TX1wuSxrPZIVCuVlKpl/view?usp=drive_link) - where every project tells a story!
+<!-- 💼 Dive into my [Portfolio]() - where every project tells a story!-->
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Anujkumar960&label=Profile%20views&color=0e75b6&style=flat" alt="supriyaHatele" /> </p>
 
 
 <h2>🥇 Technical Skills:  </h2>  
