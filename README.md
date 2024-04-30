@@ -11,6 +11,8 @@
 With 1200+ hours of experience, I specialize in crafting dynamic, user-friendly applications using the MERN stack. My passion for innovation drives me to learn and explore new technologies continually. Let's connect on LinkedIn to delve deeper into my professional journey and skills. Thanks for visiting—I look forward to connecting with you!
 
 <br/>
+
+ <img align="right" width="350" src="https://github.com/Anujkumar960/Anujkumar960/assets/154539617/808e9f77-e147-4fa9-bbf6-d2f5638197b9" alt="Coding gif" />
  
 🚀 Crafting both Frontend & Backend magic!
 
