@@ -18,7 +18,7 @@ With 1200+ hours of experience, I specialize in crafting dynamic, user-friendly 
 
 🌟 Currently mastering the MERN stack - it's a journey!
 
-💬 Collaboration fuels my creativity - let's connect on [LinkedIn](https://www.linkedin.com/in/anuj8/) & GitHub.
+💬 Collaboration fuels my creativity - let's connect on [LinkedIn](https://www.linkedin.com/in/anuj8/) & [GitHub](https://github.com/Anujkumar960).
 
 🎨 Open to new ideas and suggestions - share yours!
 
