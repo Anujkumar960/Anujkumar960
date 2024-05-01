@@ -26,7 +26,7 @@ With 1200+ hours of experience, I specialize in crafting dynamic, user-friendly 
 
 📄 Check out [my Resume](https://drive.google.com/file/d/1oEVVj8aX9iX018583p1QZ1y-C5v23Emo/view?usp=sharing) for the full scoop.
 
-<!-- 💼 Dive into my [Portfolio]() - where every project tells a story!-->
+ 💼 Dive into my [Portfolio](https://anujkumar960.github.io/) - where every project tells a story!
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Anujkumar960&label=Profile%20views&color=0e75b6&style=flat" alt="supriyaHatele" /> </p>
 
