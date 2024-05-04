@@ -1,7 +1,7 @@
 ![GitHub Readme Banner](https://github.com/Anujkumar960/Anujkumar960/assets/154539617/39dbd165-ec6d-491d-9d85-9eb4c8e5ae72)
 
 <h1 align=center>
-  <a href="https://git.io/typing-svg">
+  <a href="">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;+I'm+Kshatriya+Anujkumar...;Nice+to+meet+you!&center=true&size=20">
   </a>
 </h1> 
